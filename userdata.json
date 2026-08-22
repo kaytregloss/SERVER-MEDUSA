@@ -36,7 +36,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device123",
+        "device_id": "5184b91b39088796",
         "key": "key12345",
         "expirydate": "31-12-8025",
         "Allowoffline": true
@@ -49,7 +49,7 @@
     },
     {
         "device_id": "device456",
-        "key": "key67890",
+        "key": "MEDUSA",
         "expirydate": "15-06-8025",
         "Allowoffline": true
     },
